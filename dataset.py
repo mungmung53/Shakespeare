@@ -4,7 +4,7 @@ Created on Thurs May 23, 2024.
 """
 
 import torch
-from torch.utils.data import Dataset,Dataloader
+from torch.utils.data import Dataset,DataLoader
 
 """ Shakespeare dataset
 
